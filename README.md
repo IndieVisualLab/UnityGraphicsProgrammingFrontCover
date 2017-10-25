@@ -3,7 +3,8 @@
 技術同人誌「Unity Graphics Programming」の表紙のグラフィックス作成のためのUnityプロジェクト
 
 第3章の「群のシミュレーションのGPU実装」のプログラムをもとに作成しています.
-[第3章 群のシミュレーションのGPU実装](https://github.com/IndieVisualLab/UnityGraphicsProgramming/tree/master/Assets/BoidsSimulationOnGPU)
+
+[BoidsSimulationOnGPU](https://github.com/IndieVisualLab/UnityGraphicsProgramming/tree/master/Assets/BoidsSimulationOnGPU)
 
 ![表紙](https://github.com/IndieVisualLab/UnityGraphicsProgrammingFrontCover/blob/master/img/cover_s.png "表紙")
 
