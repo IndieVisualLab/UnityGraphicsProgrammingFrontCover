@@ -1,8 +1,8 @@
 # UnityGraphicsProgrammingFrontCover
 
-技術同人誌「Unity Graphics Programming vol.1」の表紙のグラフィックス作成のためのUnityプロジェクト
+技術同人誌「Unity Graphics Programming vol.1」 表紙グラフィックス作成のためのUnityプロジェクト
 
-第3章の「群のシミュレーションのGPU実装」のプログラムをもとに作成しています.
+第3章「群のシミュレーションのGPU実装」のプログラムをもとに作成しています.
 
 [BoidsSimulationOnGPU](https://github.com/IndieVisualLab/UnityGraphicsProgramming/tree/master/Assets/BoidsSimulationOnGPU)
 
